@@ -1,0 +1,11 @@
+./test
+test
+./client/node_modules
+client/.angular
+client/.vscode
+./server/Include
+./server/Lib
+./server/Scripts
+server/Include
+server/Lib
+server/Scripts
