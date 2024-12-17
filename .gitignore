@@ -1,8 +1,8 @@
 ./test
 test
-./client/node_modules
-client/.angular
-client/.vscode
+./frontend/node_modules
+frontend/.angular
+frontend/.vscode
 ./server/Include
 ./server/Lib
 ./server/Scripts
